@@ -342,6 +342,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"스프링을 사용하는 것과, 스프링이 어떻게 작동하는지 아는 것은 다르다"*
+**"스프링을 사용하는 것과, 스프링이 어떻게 작동하는지 아는 것은 다르다"**
 
 </div>
